@@ -66,6 +66,7 @@ The system is structured around components for:
 ### GateTogether
 
 A GATE CSE preparation platform focused on structured practice and learning.
+→ [GateTogether](https://gatetogether.in)
 
 Features include:
 
